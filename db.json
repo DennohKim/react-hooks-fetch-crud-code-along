@@ -16,13 +16,13 @@
       "id": 3,
       "name": "Lettuce",
       "category": "Produce",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 4,
       "name": "String Cheese",
       "category": "Dairy",
-      "isInCart": false
+      "isInCart": true
     },
     {
       "id": 5,
